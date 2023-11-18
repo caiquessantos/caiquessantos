@@ -71,6 +71,6 @@
   💌 Entre em contato comigo: ⤵️
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-caiquessantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/)](www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/)
-
 [![Gmail Badge](https://img.shields.io/badge/-caiquesantos04087@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquesantos04087@gmail.com)](mailto:caiquesantos04087@gmail.com)
+
+[![Linkedin](https://img.shields.io/badge/-caiquessantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/)](https://www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/)
