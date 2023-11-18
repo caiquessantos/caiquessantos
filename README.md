@@ -30,6 +30,18 @@
 </table>
 <br />
 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=caiquessantos&column=8&theme=tokyonight&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 ## 🚀 O que estou estudando atualmente...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,11 +71,6 @@
   💌 Entre em contato comigo: ⤵️
 </p>
 
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caiquesantos04087@gmail.com" alt="Gmail"/></a>
+[![Linkedin](https://img.shields.io/badge/-caiquessantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/)](www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/)
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ca%C3%ADque-santos-santana-95911a1a2/" alt="LinkedIn"/></a>
-
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/557791702521" alt="WhatsApp"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-caiquesantos04087@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquesantos04087@gmail.com)](mailto:caiquesantos04087@gmail.com)
