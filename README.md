@@ -2,15 +2,8 @@
 
 > Desenvolvedor de Software, tenho 22 anos e moro na Bahia. Atualmente estou cursando ciência da computação na Universidade Estadual do Sudoeste da Bahia (UESB). Me mantenho atualizado sobre as novas tecnologias e busco sempre estudar novas linguagens, frameworks e ferramentas de desenvolvimento. Possuo um perfil analítico, dedicado e criativo e com uma grande facilidade de aprendizado. Busco me desenvolver como programador e sempre dou o melhor de mim para realizar todas as tarefas com excelência.
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=caiquessantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
+<table align="center">
+<tr>
     <td>
       <img
         align="left"
@@ -18,14 +11,24 @@
         alt="Github stats"
       />
     </td>
+</tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=caiquessantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
   </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
     <td>
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquessantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
